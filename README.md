@@ -11,9 +11,9 @@ El juego fue creado originalmente por el programador sueco Markus "Notch" Persso
 ---
 
 ## Características
-- **Libertad absoluta:** No existen objetivos obligatorios, lo que permite al jugador elegir su propia forma de jugar.
-- **Modos de juego:** Incluye el modo *Supervivencia* (donde debes conseguir recursos y mantener la vida) y el modo *Creativo* (con recursos ilimitados para construir).
-- **Generación infinita:** Cada partida crea un mundo único y gigantesco lleno de biomas diferentes como desiertos, selvas y océanos.
+1. **Libertad absoluta:** No existen objetivos obligatorios, lo que permite al jugador elegir su propia forma de jugar.
+2. **Modos de juego:** Incluye el modo *Supervivencia* (donde debes conseguir recursos y mantener la vida) y el modo *Creativo* (con recursos ilimitados para construir).
+3. **Generación infinita:** Cada partida crea un mundo único y gigantesco lleno de biomas diferentes como desiertos, selvas y océanos.
 
 ---
 
